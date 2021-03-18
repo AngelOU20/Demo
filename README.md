@@ -1,4 +1,6 @@
 # Demo
 Demo para el curso PROG-1 2021-I
 
-hola
+## Instrucciones de instalacion
+
+* clonar y usar
